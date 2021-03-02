@@ -5,4 +5,3 @@ document.getElementsByTagName("div").row.appendChild(newText);
 
 
 
-
